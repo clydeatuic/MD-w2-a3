@@ -4,15 +4,7 @@
         id        = "com.phonegap.lockerapp"
         version   = "1.0.0">
 	<name>App Demo 3</name>
-    <description>
-        A sample Hybrid App Demo for mobile programming using Materialized CSS.
-    </description>	
-    <author href="https://github.com/clydeatuic/MD-w2-a3" email="cbalamanatuic@gmail.com">
-        clydeatuic
-    </author>
-    <icon src="decode.png" />
-    <icon src="android/android-icon-36x36.png"   gap:platform="android"    gap:qualifier="ldpi" />
-    <icon src="android/android-icon-48x48.png"   gap:platform="android"    gap:qualifier="mdpi" />
-    <icon src="android/android-icon-72x72.png"   gap:platform="android"    gap:qualifier="hdpi" />
-    <icon src="android/android-icon-96x96.png"   gap:platform="android"    gap:qualifier="xhdpi"/>    
+    <description>A sample Hybrid App Demo for mobile programming using Materialized CSS.</description>	
+    <author href="https://github.com/clydeatuic/MD-w2-a3" email="cbalamanatuic@gmail.com">clydeatuic</author>
+    <icon src="img/uic.jpg" />   
 </widget>
