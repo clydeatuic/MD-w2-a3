@@ -152,7 +152,7 @@ class Component extends App{
 			<h3 class="app_name">Locker App</h3>
 			<h6 class="app_desc">A Hybrid Demo App</h6>
 			<div class="center-align">
-				<img class="app_logo" src="img/clyde.png" />
+				<img class="app_logo" src="img/uic.jpg" />
 			</div>
 			<div class="login_input">
 				<div class="row">				
