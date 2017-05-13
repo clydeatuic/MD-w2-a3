@@ -3,14 +3,13 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.lockerapp"
         version   = "1.0.0">
-	<name>LockerApp</name>
+	<name>App Demo 3</name>
     <description>
-        A sample Hybrid App Demo for mobile programming.
+        A sample Hybrid App Demo for mobile programming using Materialized CSS.
     </description>	
-    <author href="https://github.com/clydeinwebdev/lockerapp" email="clydeinwebdev@gmail.com">
-        clydeinwebdev
+    <author href="https://github.com/clydeatuic/MD-w2-a3" email="cbalamanatuic@gmail.com">
+        clydeatuic
     </author>
-    <preference name="phonegap-version" value="2.3.6" />
     <icon src="decode.png" />
     <icon src="android/android-icon-36x36.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="android/android-icon-48x48.png"   gap:platform="android"    gap:qualifier="mdpi" />
